@@ -43,12 +43,3 @@ I’m a **Data Scientist** interested in **Machine Learning**. I use **Python**,
 </p>
 
 
-  <!-- Machine Learning (TensorFlow logo) -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tensorflow.svg" alt="Machine Learning" width="40" height="40" style="margin-right:10px"/>
-
-  <!-- Scikit-learn -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/scikitlearn.svg" alt="Scikit-learn" width="40" height="40" style="margin-right:10px"/>
-
-  <!-- Java -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/java.svg" alt="Java" width="40" height="40" style="margin-right:10px"/>
-</p>
