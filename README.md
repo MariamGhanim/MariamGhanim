@@ -3,7 +3,7 @@
 * Computer Science student with experience in data analysis and machine learning 💻📊🤖
 * Skilled in Python and libraries like pandas, NumPy, scikit-learn, matplotlib, and Streamlit 🐍
 * Strong in machine learning basics, data cleaning, and model testing 
-* Quick learner, good at problem-solving, and works well with others 
+* Quick learner, good at problem solving, and works well with others 
 * Currently learning about natural language processing, like text classification and extracting key information 
 
 ## Skills
