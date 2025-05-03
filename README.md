@@ -9,27 +9,39 @@ I’m a **Data Scientist** interested in **Machine Learning**. I use **Python**,
 
 ## Skills
 
+
 <p align="left">
   <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/python.svg" alt="Python" width="40" height="40" style="margin-right:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 
-  <!-- SQL (MySQL shown here) -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/mysql.svg" alt="SQL" width="40" height="40" style="margin-right:10px"/>
+  <!-- SQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 
   <!-- Pandas -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/pandas.svg" alt="Pandas" width="40" height="40" style="margin-right:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
 
   <!-- NumPy -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/numpy.svg" alt="NumPy" width="40" height="40" style="margin-right:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
 
-  <!-- Seaborn -->
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="40" style="margin-right:10px"/>
+  <!-- Seaborn (still no official icon, using wide logo) -->
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" height="40"/>
 
   <!-- Matplotlib -->
-  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40" style="margin-right:10px"/>
+  <img src="https://matplotlib.org/_static/images/logo2.svg" width="40" height="40"/>
 
   <!-- Streamlit -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/streamlit.svg" alt="Streamlit" width="40" height="40" style="margin-right:10px"/>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="100" height="40"/>
+
+  <!-- TensorFlow (for ML) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+
+  <!-- Scikit-learn -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+</p>
+
 
   <!-- Machine Learning (TensorFlow logo) -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tensorflow.svg" alt="Machine Learning" width="40" height="40" style="margin-right:10px"/>
