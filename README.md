@@ -1,13 +1,18 @@
 # Hi, I'm Mariam 👋
 
-* Computer Science student with experience in data analysis and machine learning 💻📊🤖
-* Skilled in SQL, Python and libraries like pandas, NumPy, scikit-learn, matplotlib, and Streamlit 🐍
-* Strong in machine learning basics, data cleaning, and model testing 
-* Quick learner, good at problem solving, and works well with others 
-* Currently learning about natural language processing, like text classification and extracting key information 
+<p float="left">
+  * Computer Science student with experience in data analysis and machine learning 💻📊🤖<br/>
+  * Skilled in SQL, Python and libraries like pandas, NumPy, scikit-learn, matplotlib, and Streamlit 🐍<br/>
+  * Strong in machine learning basics, data cleaning, and model testing<br/>
+  * Quick learner, good at problem solving, and works well with others<br/>
+  * Currently learning about natural language processing, like text classification and extracting key information
+</p>
+
+<p float="right" align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariamGhanim&layout=compact" width="350" />
+</p>
 
 ## Skills
-
 
 <p align="left">
   <!-- Python -->
@@ -31,13 +36,9 @@
   <!-- Streamlit -->
   <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="100" height="40"/>
 
-
   <!-- Scikit-learn -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
 
   <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 </p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariamGhanim&show_icons=true&theme=radical)
-
-
