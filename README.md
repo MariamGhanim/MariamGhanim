@@ -13,11 +13,15 @@
 - Currently learning about natural language processing, like text classification and extracting key information
 
     </td>
-    <td width="30%" valign="top" align="right">
+    <td width="30%" valign="top" align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamGhanim&layout=compact)
 
-    </td>
+<br/>
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB1NXVnYzI1bjA2eDhjcHAybzhrYWFkeTF6MzhueGEyaWRxbWZxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MjNqzWt0sXWZw5okrF/giphy.gif" width="200" alt="Fun GIF"/>
+
+    
   </tr>
 </table>
 
