@@ -1,26 +1,25 @@
 # Hi, I'm Mariam 👋
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
+<table width="100%">
+  <tr>
+    <td width="70%" valign="top" align="left">
 
-  <div style="flex: 1; padding-right: 20px;">
+**About me**
 
-  **About me**
+- Computer Science student with experience in data analysis and machine learning 💻📊🤖  
+- Skilled in SQL, Python and libraries like pandas, NumPy, scikit-learn, matplotlib, and Streamlit 🐍  
+- Strong in machine learning basics, data cleaning, and model testing  
+- Quick learner, good at problem solving, and works well with others  
+- Currently learning about natural language processing, like text classification and extracting key information
 
-  - Computer Science student with experience in data analysis and machine learning 💻📊🤖  
-  - Skilled in SQL, Python and libraries like pandas, NumPy, scikit-learn, matplotlib, and Streamlit 🐍  
-  - Strong in machine learning basics, data cleaning, and model testing  
-  - Quick learner, good at problem solving, and works well with others  
-  - Currently learning about natural language processing, like text classification and extracting key information
+    </td>
+    <td width="30%" valign="top" align="right">
 
-  </div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamGhanim&layout=compact)
 
-  <div style="flex: 1; text-align: right;">
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamGhanim&layout=compact)
-
-  </div>
-
-</div>
+    </td>
+  </tr>
+</table>
 
 ---
 
